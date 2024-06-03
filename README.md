@@ -24,4 +24,12 @@ The goal is to train a CNN model to automatically distinguish between different 
   * Scikit-learn library (installation instructions: https://scikit-learn.org/0.16/install.html)
   * Matplotlib library (installation instructions: https://matplotlib.org/stable/install/index.html)
 * Downloading the Dataset
-  * Download the Dacon Semiconductor dataset from https://dacon.io/en.
+  * Download the Dacon Semiconductor dataset from main {DATASET-ORG}.
+* Running the Script
+  * Modify the script (semiconductor_image_classifier.ipynb) to specify the path to your downloaded dataset.
+  * Run the script using Python: semiconductor_image_classifier.ipynb
+* Documentation
+  * For detailed explanations of the code and hyperparameter choices, refer to the comments within the semiconductor_image_classifier.ipynb script.
+  * Additional resources and tutorials on CNNs and TensorFlow can be found online (e.g., TensorFlow tutorials: https://www.tensorflow.org/tutorials).
+* Further Enhancements
+  * This project provides a starting point for building a CNN model for semiconductor image classification. Feel free to adapt and extend the code for your specific needs!
